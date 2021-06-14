@@ -1,6 +1,6 @@
 {
   "name": "react-leaflet-bing-v2",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "Bing layer as React component for Leaflet",
   "main": "dist/react-leaflet-bing.js",
   "scripts": {
